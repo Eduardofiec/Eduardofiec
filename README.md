@@ -3,6 +3,8 @@
     Integrante do grupo 4MEI do instituto FIEC
     🫡
   </h1>  
+
+  <img src="https://sorpresaysuspense.files.wordpress.com/2019/03/aristoteles-y-avion.gif?w=676">
   
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
