@@ -4,7 +4,7 @@
 
 hello world:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003b00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,WORLD!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=35&center=true&vCenter=true&width=1000&lines=HELLO,WORLD!+:%29)](https://git.io/typing-svg)
   <h1>
     Integrante do grupo 4MEI do instituto FIEC
     🫡
